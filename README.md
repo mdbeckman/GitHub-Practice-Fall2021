@@ -42,6 +42,7 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Also Matt Beckman!      | Wed/Fri 1:25pm    | wsgosset             | https://github.com/wsgosset/shiny-guide                  |  
           
 
 
