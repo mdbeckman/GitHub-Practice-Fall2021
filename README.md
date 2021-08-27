@@ -42,7 +42,8 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
-          
+| Xuanlong Chen           | Wed/Fri 1:25pm    | cxl929               | https://github.com/cxl929/turbo-tribble                  |  
+              
 
 
 
