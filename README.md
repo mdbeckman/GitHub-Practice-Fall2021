@@ -42,9 +42,9 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 2:30pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |
-| Haydne Golden           | Wed/Fri 2:30pm    | HaydneGolden         | https://github.com/HaydneGolden/README                   |
+| Haydne Golden           | Wed/Fri 2:30pm    | HaydneGolden         | https://github.com/HaydneGolden/files                    |
           
-# I added an row regarding information about me, Haydne Golden, underneath the template.
+
 
 
 
