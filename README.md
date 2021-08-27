@@ -42,8 +42,8 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Wm Sealy Gosset         | Wed/Fri 2:30pm    | wsgosset              | https://github.com/wsgosset/studious-memory             |
 | Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
-          
 
 
 
