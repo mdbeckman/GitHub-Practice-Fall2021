@@ -81,7 +81,7 @@
 | Jeremy Bednar           | Wed/Fri 2:30pm    | 20bednarj            | 20bednarjGitHub-Practice-Fall2021                        |          
 | Sam Cerimele            | Wed/Fri 2:30pm    | scerimele12          |https://github.com/scerimele12/bug-free-telegram          | 
 | Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |          
-
+| Brianna Malone          | Wed/Fri 1:25pm    | BriannaMalone        | https://github.com/BriannaMalone/jubilant-tribble.git
 
 
 
