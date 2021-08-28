@@ -25,7 +25,6 @@
     - https://github.com/DequanMa1
     - (2 pts) commit your changes and **submit pull request**
         - write a descriptive commit message (e.g. "added Matt Beckman to class table")
- 
         - click green button "Commit changes"
 
 4. Merge your updated copy of the repo with Dr. Beckman's repo...
