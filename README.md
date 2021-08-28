@@ -43,6 +43,7 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
 | Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
+| Dean Conroy             | Wed/Fri 1:25pm    | deanbcon11           | https://github.com/deanbcon11/deansrepo                  |  
           
 
 
