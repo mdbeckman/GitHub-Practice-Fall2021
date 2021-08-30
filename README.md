@@ -88,9 +88,10 @@
 | Jennifer Miller         | Wed/Fri 2:30pm    | jennifermiller26     | https://github.com/jennifermiller26/fuzzy-garbanzo       |
 | Jeremy Bednar           | Wed/Fri 2:30pm    | 20bednarj            | 20bednarjGitHub-Practice-Fall2021                        |          
 | Sam Cerimele            | Wed/Fri 2:30pm    | scerimele12          |https://github.com/scerimele12/bug-free-telegram          | 
+| Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |  
+| Tianyi Hong             | Wed/Fri 1:25pm    | Tianyi-H             | https://github.com/Tianyi-H/GitHub-Practice-Fall2021     |
 | Dean Conroy             | Wed/Fri 2:30pm    | deanbcon11           | https://github.com/deanbcon11/deansrepo                  |  
 | Jiayi Li                | Wed/Fri 2:30pm    | echoJYL              |https://github.com/echoJYL/STAT184-github_practice-       |
-| Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |          
 | Xinyu Chen              | Wed/Fri 2:30pm    | 1126chen             | https://github.com/1126chen/jillxx.git                   |
 | Ziyao Yang              | Wed/Fri 2:30pm    | Ziyao3000            | https://github.com/Ziyao3000/GitHub-Practice-Fall2021    |
 | Abigail Giordano        | Wed/Fri 2:30pm    | abigailgiordano      | https://github.com/abigailgiordano/README.git            |
