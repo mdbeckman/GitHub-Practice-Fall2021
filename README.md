@@ -16,9 +16,13 @@
 3. **Add a row** in your copy of the table below with your information 
     - follow the pattern for the vertical bar character (a few keys to the right of "P")... using the "Matthew Beckman" row as a template
     - (2 pts) first & last name  
+    - Dequan Ma
     - (2 pts) class days/time
+    - 8/27 2:15P.M.
     - (2 pts) github id  
+    - Dequan Ma1
     - (2 pts) url for GitHub repo you created from your new GitHub profile
+    - https://github.com/DequanMa1
     - (2 pts) commit your changes and **submit pull request**
         - write a descriptive commit message (e.g. "added Matt Beckman to class table")
         - click green button "Commit changes"
