@@ -75,6 +75,7 @@
 | Mohammed AlRasebi       | Wed/Fri 2:30pm    | MohammedAlrasebi     | https://github.com/MohammedAlrasebi/-mha5305-GitHub-Practice-Fall2021      |
 | Jennifer McIntyre       | Wed/Fri 2:30pm    | jmcint7372           | https://github.com/Jmcint7372/GitHub-Practice-Fall2021   |            
 | Layla Gilbert           | Wed/Fri 2:30pm    | LaylaGilbert         | https://github.com/LaylaGilbert/GitHub-Practice-Fall2021 |          
+| John Miller             | Wed/Fri 2:30pm    | JohnnyMills825       | https://github.com/JohnnyMills825/Day1GitHubLearning/blob/main/README.md                      |  
 | Carson Pedaci           | Wed/Fri 2:30pm    | cwp5404              | https://github.com/cpedaci5404/8-27                      |
 | Haydne Golden           | Wed/Fri 2:30pm    | HaydneGolden         | https://github.com/HaydneGolden/GitHub-Practice-Fall2021 |
 | Nicholas DeSilva        | Wed/Fri 2:30pm    | nickdesilva          | https://github.com/nickdesilva/GitHub-Practice-Fall2021/edit/master/README.md  |
