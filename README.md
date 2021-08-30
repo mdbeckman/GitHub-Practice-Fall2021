@@ -71,6 +71,7 @@
 | David Marchenko         | Wed/Fri 1:25pm    | davidmarchenko       | https://github.com/davidmarchenko/solid-octo-broccoli    |
 | Jack Howard             | Wed/Fri 1:25pm    | jackhoward0348       | https://github.com/jackhoward0348/howardstat184          |
 | TJ Martin               | Wed/Fri 1:25pm    | TJM257               | https://github.com/TJM257/GitHub-Practice-Fall2021       |
+| Sandy Wang              | Wed/Fri 1:25pm    | Sandywwang           | https://github.com/Sandywwang/GitHub-Practice-Fall2021   |
 | Doehyung kim            | Wed/Fri 2:30pm    | doehyung99           | https://github.com/doehyung99/STAT184                    |
 | Danqi Ding              | Wed/Fri 1:25pm    | air-bandage          | https://github.com/air-bandage/GitHub-Practice-Fall2021  |          
 | Aidan Friedman          | Wed/Fri 2:30pm    | ajf6149              | https://github.com/ajf6149/GitHub-Practice-Fall2021/edit/master/README.md     |          
