@@ -16,9 +16,13 @@
 3. **Add a row** in your copy of the table below with your information 
     - follow the pattern for the vertical bar character (a few keys to the right of "P")... using the "Matthew Beckman" row as a template
     - (2 pts) first & last name  
+    - Dequan Ma
     - (2 pts) class days/time
+    - 8/27 2:15P.M.
     - (2 pts) github id  
+    - Dequan Ma1
     - (2 pts) url for GitHub repo you created from your new GitHub profile
+    - https://github.com/DequanMa1
     - (2 pts) commit your changes and **submit pull request**
         - write a descriptive commit message (e.g. "added Matt Beckman to class table")
         - click green button "Commit changes"
@@ -67,21 +71,27 @@
 | David Marchenko         | Wed/Fri 1:25pm    | davidmarchenko       | https://github.com/davidmarchenko/solid-octo-broccoli    |
 | Jack Howard             | Wed/Fri 1:25pm    | jackhoward0348       | https://github.com/jackhoward0348/howardstat184          |
 | TJ Martin               | Wed/Fri 1:25pm    | TJM257               | https://github.com/TJM257/GitHub-Practice-Fall2021       |
-| Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
+| Sandy Wang              | Wed/Fri 1:25pm    | Sandywwang           | https://github.com/Sandywwang/GitHub-Practice-Fall2021   |
+| Doehyung kim            | Wed/Fri 2:30pm    | doehyung99           | https://github.com/doehyung99/STAT184                    |
+| Danqi Ding              | Wed/Fri 1:25pm    | air-bandage          | https://github.com/air-bandage/GitHub-Practice-Fall2021  |          
 | Aidan Friedman          | Wed/Fri 2:30pm    | ajf6149              | https://github.com/ajf6149/GitHub-Practice-Fall2021/edit/master/README.md     |          
 | Rashed Almogezwi        | Wed/Fri 2:30pm    | rxa5394              | https://github.com/rxa5394/GitHub-Practice-Fall2021      |
 | Sanghyuk Chae           | Wed/Fri 2:30pm    | sanghyukchae         | https://github.com/sanghyukchae/schae9813                |
 | Mohammed AlRasebi       | Wed/Fri 2:30pm    | MohammedAlrasebi     | https://github.com/MohammedAlrasebi/-mha5305-GitHub-Practice-Fall2021      |
 | Jennifer McIntyre       | Wed/Fri 2:30pm    | jmcint7372           | https://github.com/Jmcint7372/GitHub-Practice-Fall2021   |            
 | Layla Gilbert           | Wed/Fri 2:30pm    | LaylaGilbert         | https://github.com/LaylaGilbert/GitHub-Practice-Fall2021 |          
+| John Miller             | Wed/Fri 2:30pm    | JohnnyMills825       | https://github.com/JohnnyMills825/Day1GitHubLearning/blob/main/README.md                      |  
 | Carson Pedaci           | Wed/Fri 2:30pm    | cwp5404              | https://github.com/cpedaci5404/8-27                      |
 | Haydne Golden           | Wed/Fri 2:30pm    | HaydneGolden         | https://github.com/HaydneGolden/GitHub-Practice-Fall2021 |
 | Nicholas DeSilva        | Wed/Fri 2:30pm    | nickdesilva          | https://github.com/nickdesilva/GitHub-Practice-Fall2021/edit/master/README.md  |
 | Jennifer Miller         | Wed/Fri 2:30pm    | jennifermiller26     | https://github.com/jennifermiller26/fuzzy-garbanzo       |
 | Jeremy Bednar           | Wed/Fri 2:30pm    | 20bednarj            | 20bednarjGitHub-Practice-Fall2021                        |          
 | Sam Cerimele            | Wed/Fri 2:30pm    | scerimele12          |https://github.com/scerimele12/bug-free-telegram          | 
-| Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           | Jiayi Li                | Wed/Fri 2:30pm    | echoJYL              |https://github.com/echoJYL/STAT184-github_practice-
-
+| Jiayi Li                | Wed/Fri 2:30pm    | echoJYL              |https://github.com/echoJYL/STAT184-github_practice-       |
+| Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |          
+| Jeffrey Carswell        | Wed/Fri 2:30 PM   | Jjcarswell           | https://github.com/Jjcarswell/jeff                       |
+| Riley Kresge            | Wed/Fri 1:25 pm   | rileykresge          | https://github.com/rileykresge/GitHub-Practice           |
+| Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
 
 
 
