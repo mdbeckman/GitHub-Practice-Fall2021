@@ -46,7 +46,7 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      | 
-| Christian Gardner       | Wed/Fri 1:25pm    | ChrisGardnerPSU      | https://github.com/ChrisGardnerPSU/GitHub-Practice-Fall2021
+| Christian Gardner       | Wed/Fri 1:25pm    | ChrisGardnerPSU      | https://github.com/ChrisGardnerPSU/GitHub-Practice-Fall2021  | 
 | Caroline Ho             | Wed/Fri 1:25pm    | hocaroline17         | https://github.com/hocaroline17/hocaroline17             |
 | Kevin Mouck             | Wed/Fri 1:25pm    | kmouck88             | https://github.com/kmouck88/kevinmouck.git               |          
 | Hongyi Xia              | Wed/Fri 1:25pm    | hy2021-IT            | https://github.com/hy2021-IT/README.HY                   |
@@ -91,6 +91,7 @@
 | Dean Conroy             | Wed/Fri 2:30pm    | deanbcon11           | https://github.com/deanbcon11/deansrepo                  |  
 | Jiayi Li                | Wed/Fri 2:30pm    | echoJYL              |https://github.com/echoJYL/STAT184-github_practice-       |
 | Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |          
+| Ziyao Yang              | Wed/Fri 2:30pm    | Ziyao3000            | https://github.com/Ziyao3000/GitHub-Practice-Fall2021    |
 | Abigail Giordano        | Wed/Fri 2:30pm    | abigailgiordano      | https://github.com/abigailgiordano/README.git            |
 | Gustav "Gus" Vu         | Wed/Fri 2:30pm    | GusVu                | https://github.com/gusvu/legendary-octo-waffle#readme    |
 | Emre Keskin             | Wed/Fri 2:30pm    | EmreKeskin1          |https://github.com/EmreKeskin1/stunning-pancake           |
