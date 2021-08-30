@@ -68,6 +68,7 @@
 | Jack Howard             | Wed/Fri 1:25pm    | jackhoward0348       | https://github.com/jackhoward0348/howardstat184          |
 | TJ Martin               | Wed/Fri 1:25pm    | TJM257               | https://github.com/TJM257/GitHub-Practice-Fall2021       |
 | Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
+| Danqi Ding              | Wed/Fri 1:25pm    | air-bandage          | https://github.com/air-bandage/GitHub-Practice-Fall2021  |          
 | Aidan Friedman          | Wed/Fri 2:30pm    | ajf6149              | https://github.com/ajf6149/GitHub-Practice-Fall2021/edit/master/README.md     |          
 | Rashed Almogezwi        | Wed/Fri 2:30pm    | rxa5394              | https://github.com/rxa5394/GitHub-Practice-Fall2021      |
 | Sanghyuk Chae           | Wed/Fri 2:30pm    | sanghyukchae         | https://github.com/sanghyukchae/schae9813                |
