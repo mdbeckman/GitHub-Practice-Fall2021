@@ -41,7 +41,10 @@
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Matthew Beckman         | Saturday 1:25 AM  | **MERGE CONFLICT!? PANIC!!!!** | He ruined the URL and wrecked the whole table too!!   |      
+
+
+
 | Caroline Ho             | Wed/Fri 1:25pm    | hocaroline17         | https://github.com/hocaroline17/hocaroline17             |
 | Kevin Mouck             | Wed/Fri 1:25pm    | kmouck88             | https://github.com/kmouck88/kevinmouck.git               |          
 | Hongyi Xia              | Wed/Fri 1:25pm    | hy2021-IT            | https://github.com/hy2021-IT/README.HY                   |
