@@ -45,7 +45,8 @@
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      | 
+| Christian Gardner       | Wed/Fri 1:25pm    | ChrisGardnerPSU      | https://github.com/ChrisGardnerPSU/GitHub-Practice-Fall2021
 | Caroline Ho             | Wed/Fri 1:25pm    | hocaroline17         | https://github.com/hocaroline17/hocaroline17             |
 | Kevin Mouck             | Wed/Fri 1:25pm    | kmouck88             | https://github.com/kmouck88/kevinmouck.git               |          
 | Hongyi Xia              | Wed/Fri 1:25pm    | hy2021-IT            | https://github.com/hy2021-IT/README.HY                   |
