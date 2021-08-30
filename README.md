@@ -80,7 +80,8 @@
 | Jennifer Miller         | Wed/Fri 2:30pm    | jennifermiller26     | https://github.com/jennifermiller26/fuzzy-garbanzo       |
 | Jeremy Bednar           | Wed/Fri 2:30pm    | 20bednarj            | 20bednarjGitHub-Practice-Fall2021                        |          
 | Sam Cerimele            | Wed/Fri 2:30pm    | scerimele12          |https://github.com/scerimele12/bug-free-telegram          | 
-| Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |          
+| Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |  
+| Tianyi Hong             | Wed/Fri 1:25pm    | Tianyi-H             | https://github.com/Tianyi-H/GitHub-Practice-Fall2021     |
 
 
 
