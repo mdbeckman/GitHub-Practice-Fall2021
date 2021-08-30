@@ -91,6 +91,7 @@
 | Dean Conroy             | Wed/Fri 2:30pm    | deanbcon11           | https://github.com/deanbcon11/deansrepo                  |  
 | Jiayi Li                | Wed/Fri 2:30pm    | echoJYL              |https://github.com/echoJYL/STAT184-github_practice-       |
 | Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |          
+| Xinyu Chen              | Wed/Fri 2:30pm    | 1126chen             | https://github.com/1126chen/jillxx.git                   |
 | Ziyao Yang              | Wed/Fri 2:30pm    | Ziyao3000            | https://github.com/Ziyao3000/GitHub-Practice-Fall2021    |
 | Abigail Giordano        | Wed/Fri 2:30pm    | abigailgiordano      | https://github.com/abigailgiordano/README.git            |
 | Gustav "Gus" Vu         | Wed/Fri 2:30pm    | GusVu                | https://github.com/gusvu/legendary-octo-waffle#readme    |
