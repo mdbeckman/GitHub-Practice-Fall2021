@@ -43,7 +43,7 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
           
-
+| Dawson Mowery           | Wed/Fri 1:25pm    | Dmowery00            | https://github.com/Dmowery00/GitHub-Practice-Fall2021    |
 
 
 
