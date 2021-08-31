@@ -45,7 +45,8 @@
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      | 
+| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Xuanlong Chen           | Wed/Fri 1:25pm    | cxl929               | https://github.com/cxl929/turbo-tribble                  |  
 | Christian Gardner       | Wed/Fri 1:25pm    | ChrisGardnerPSU      | https://github.com/ChrisGardnerPSU/GitHub-Practice-Fall2021  | 
 | Caroline Ho             | Wed/Fri 1:25pm    | hocaroline17         | https://github.com/hocaroline17/hocaroline17             |
 | Kevin Mouck             | Wed/Fri 1:25pm    | kmouck88             | https://github.com/kmouck88/kevinmouck.git               |          
@@ -101,8 +102,10 @@
 | Gustav "Gus" Vu         | Wed/Fri 2:30pm    | GusVu                | https://github.com/gusvu/legendary-octo-waffle#readme    |
 | Emre Keskin             | Wed/Fri 2:30pm    | EmreKeskin1          |https://github.com/EmreKeskin1/stunning-pancake           |
 | Jeffrey Carswell        | Wed/Fri 2:30 PM   | Jjcarswell           | https://github.com/Jjcarswell/jeff                       |
-| Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |          
 | Xinyue Tang             | Wed/Fri 1:25pm    | Xinyue777            | https://github.com/Xinyue777/Xinyue-Tang#xinyue-tang     | 
+| Andrea Monninger        | Wed/Fri 1:25pm    | aem0301              | https://github.com/aem0301/navy_duck                     |
+| Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |          
+          
 
 
 
