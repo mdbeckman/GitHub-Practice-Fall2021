@@ -42,7 +42,7 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
-  Adarsh Subramanian        Wed/Fri 2:13pm      adarshsubra            https://github.com/adarshsubra/dcData
+  Adarsh Subramanian        Wed/Fri 2:13pm      adarshsubra            https://github.com/adarshsubra
 
 
 
