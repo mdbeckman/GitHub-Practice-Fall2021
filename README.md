@@ -44,7 +44,7 @@
 # Class GitHub Table 
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
-|:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
+|:JongHee Lee             | Wed/Fri 2:30pm    | jzl6243              | https://github.com/JongHeeL/jhlee/blob/main/README.md 
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
 | Xuanlong Chen           | Wed/Fri 1:25pm    | cxl929               | https://github.com/cxl929/turbo-tribble                  |  
 | Christian Gardner       | Wed/Fri 1:25pm    | ChrisGardnerPSU      | https://github.com/ChrisGardnerPSU/GitHub-Practice-Fall2021  | 
