@@ -80,6 +80,8 @@
 | Riley Kresge            | Wed/Fri 1:25 pm   | rileykresge          | https://github.com/rileykresge/GitHub-Practice           |
 | Brianna Malone          | Wed/Fri 1:25pm    | BriannaMalone        | https://github.com/BriannaMalone/jubilant-tribble.git    |
 | Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
+| Andrea Monninger        | Wed/Fri 1:25pm    | aem0301              | https://github.com/aem0301/navy_duck                     |
+| Xinyue Tang             | Wed/Fri 1:25pm    | Xinyue777            | https://github.com/Xinyue777/Xinyue-Tang#xinyue-tang     | 
 | Doehyung kim            | Wed/Fri 2:30pm    | doehyung99           | https://github.com/doehyung99/STAT184                    |
 | Aidan Friedman          | Wed/Fri 2:30pm    | ajf6149              | https://github.com/ajf6149/GitHub-Practice-Fall2021/edit/master/README.md     |          
 | Rashed Almogezwi        | Wed/Fri 2:30pm    | rxa5394              | https://github.com/rxa5394/GitHub-Practice-Fall2021      |
@@ -102,8 +104,9 @@
 | Gustav "Gus" Vu         | Wed/Fri 2:30pm    | GusVu                | https://github.com/gusvu/legendary-octo-waffle#readme    |
 | Emre Keskin             | Wed/Fri 2:30pm    | EmreKeskin1          |https://github.com/EmreKeskin1/stunning-pancake           |
 | Jeffrey Carswell        | Wed/Fri 2:30 PM   | Jjcarswell           | https://github.com/Jjcarswell/jeff                       |
-| Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |          
 | Nick Long               | Wed/Fri 2:30pm    | NickLong12           | https://github.com/NickLong12/GitHub-Practice-Fall2021/edit/master/README.md   |
+| Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |          
+          
 
 
 
