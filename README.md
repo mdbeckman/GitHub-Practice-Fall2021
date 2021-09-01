@@ -106,7 +106,7 @@
 | Jeffrey Carswell        | Wed/Fri 2:30 PM   | Jjcarswell           | https://github.com/Jjcarswell/jeff                       |
 | Nick Long               | Wed/Fri 2:30pm    | NickLong12           | https://github.com/NickLong12/GitHub-Practice-Fall2021/edit/master/README.md   |
 | Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |          
-          
+| Ryan Liebscher          | Wed/Fri 2:30pm    | RyanLiebscher1       | https://github.com/RLiebscher1/GitHubSTAT184
 
 
 
