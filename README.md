@@ -114,6 +114,7 @@
 | Jihun Kang              | Wed/Fri 1:25pm    | jihungarykang        | https://github.com/jihngarykang/Jihun-Kang               |                    
 | Xinyun Zhou              | Wed/Fri 1:25pm    | XinyunZhou           | https://github.com/XinyunZhou/Vinson.git                  |
 | Brendan Rubey           | Wed/Fri 2:30pm    | bcrubey              | https://bcrubey.github.io/Stat-184-Brendan-Rubey/        |            
+| Mingrui Chen            | Wed/Fri 2:30pm    | MingruiChen0221      | https://github.com/MingruiChen0221/GitHub-Practice-Fall2021|            
 | Dawson Mowery           | Wed/Fri 1:25pm    | Dmowery00            | https://github.com/Dmowery00/GitHub-Practice-Fall2021    |
 | Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |      
 
