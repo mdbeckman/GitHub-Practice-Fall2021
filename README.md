@@ -84,6 +84,7 @@
 | Xinyue Tang             | Wed/Fri 1:25pm    | Xinyue777            | https://github.com/Xinyue777/Xinyue-Tang#xinyue-tang     | 
 | Doehyung kim            | Wed/Fri 2:30pm    | doehyung99           | https://github.com/doehyung99/STAT184                    |
 | Aidan Friedman          | Wed/Fri 2:30pm    | ajf6149              | https://github.com/ajf6149/GitHub-Practice-Fall2021/edit/master/README.md     |          
+| Xiangting Li            | Wed/Fri 2:30pm    | tinali0              | https://github.com/tinali0/stat18401                     |
 | Rashed Almogezwi        | Wed/Fri 2:30pm    | rxa5394              | https://github.com/rxa5394/GitHub-Practice-Fall2021      |
 | Sanghyuk Chae           | Wed/Fri 2:30pm    | sanghyukchae         | https://github.com/sanghyukchae/schae9813                |
 | Mohammed AlRasebi       | Wed/Fri 2:30pm    | MohammedAlrasebi     | https://github.com/MohammedAlrasebi/-mha5305-GitHub-Practice-Fall2021      |
