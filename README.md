@@ -83,6 +83,7 @@
 | Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
 | Andrea Monninger        | Wed/Fri 1:25pm    | aem0301              | https://github.com/aem0301/navy_duck                     |
 | Xinyue Tang             | Wed/Fri 1:25pm    | Xinyue777            | https://github.com/Xinyue777/Xinyue-Tang#xinyue-tang     | 
+| Adarsh Subramanian      | Wed/Fri 2:13pm    | adarshsubra          | https://github.com/adarshsubra                           |
 | Doehyung kim            | Wed/Fri 2:30pm    | doehyung99           | https://github.com/doehyung99/STAT184                    |
 | Aidan Friedman          | Wed/Fri 2:30pm    | ajf6149              | https://github.com/ajf6149/GitHub-Practice-Fall2021/edit/master/README.md     |          
 | Xiangting Li            | Wed/Fri 2:30pm    | tinali0              | https://github.com/tinali0/stat18401                     |
