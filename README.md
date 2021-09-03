@@ -110,6 +110,7 @@
 | Jeffrey Carswell        | Wed/Fri 2:30 PM   | Jjcarswell           | https://github.com/Jjcarswell/jeff                       |
 | Jihun Kang              | Wed/Fri 1:25pm    | jihungarykang        | https://github.com/jihngarykang                       |  
 | Nick Long               | Wed/Fri 2:30pm    | NickLong12           | https://github.com/NickLong12/GitHub-Practice-Fall2021/edit/master/README.md   |
+| Aidan Cole              | Wed/Fri 2:30pm    | aidanc25             | https://github.com/aidanc25/fluffy-disco          
 | Jihun Kang              | Wed/Fri 1:25pm    | jihungarykang        | https://github.com/jihngarykang/Jihun-Kang               |                    
 | Xinyun Zhou              | Wed/Fri 1:25pm    | XinyunZhou           | https://github.com/XinyunZhou/Vinson.git                  |
 | Brendan Rubey           | Wed/Fri 2:30pm    | bcrubey              | https://bcrubey.github.io/Stat-184-Brendan-Rubey/        |            
