@@ -111,7 +111,7 @@
 | Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |      
 | Brendan Rubey           | Wed/Fri 2:30pm    | bcrubey              | https://bcrubey.github.io/Stat-184-Brendan-Rubey/        |  
           
-
+| Dawson Mowery           | Wed/Fri 1:25pm    | Dmowery00            | https://github.com/Dmowery00/GitHub-Practice-Fall2021    |
 
 
 <br>
