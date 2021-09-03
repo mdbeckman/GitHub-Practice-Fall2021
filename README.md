@@ -46,6 +46,7 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Benjamin Bodnar         | Wed/Fri 1:25pm    | benbodnar            | https://github.com/benbodnar/psychic-chainsaw            |
 | Xuanlong Chen           | Wed/Fri 1:25pm    | cxl929               | https://github.com/cxl929/turbo-tribble                  |  
 | Christian Gardner       | Wed/Fri 1:25pm    | ChrisGardnerPSU      | https://github.com/ChrisGardnerPSU/GitHub-Practice-Fall2021  | 
 | Caroline Ho             | Wed/Fri 1:25pm    | hocaroline17         | https://github.com/hocaroline17/hocaroline17             |
