@@ -46,6 +46,7 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Benjamin Bodnar         | Wed/Fri 1:25pm    | benbodnar            | https://github.com/benbodnar/psychic-chainsaw            |
 | Xuanlong Chen           | Wed/Fri 1:25pm    | cxl929               | https://github.com/cxl929/turbo-tribble                  |  
 | Christian Gardner       | Wed/Fri 1:25pm    | ChrisGardnerPSU      | https://github.com/ChrisGardnerPSU/GitHub-Practice-Fall2021  | 
 | Caroline Ho             | Wed/Fri 1:25pm    | hocaroline17         | https://github.com/hocaroline17/hocaroline17             |
@@ -81,10 +82,12 @@
 | Brianna Malone          | Wed/Fri 1:25pm    | BriannaMalone        | https://github.com/BriannaMalone/jubilant-tribble.git    |
 | Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
 | Andrea Monninger        | Wed/Fri 1:25pm    | aem0301              | https://github.com/aem0301/navy_duck                     |
-| Xinyue Tang             | Wed/Fri 1:25pm    | Xinyue777            | https://github.com/Xinyue777/Xinyue-Tang#xinyue-tang     |
+| Xinyue Tang             | Wed/Fri 1:25pm    | Xinyue777            | https://github.com/Xinyue777/Xinyue-Tang#xinyue-tang     | 
+| Adarsh Subramanian      | Wed/Fri 2:13pm    | adarshsubra          | https://github.com/adarshsubra                           |
 | Ivan Voinov             | Wed/Fri 2:15pm    | ivvoinov             | https://github.com/ivvoinov/STAT184                      |  
 | Doehyung kim            | Wed/Fri 2:30pm    | doehyung99           | https://github.com/doehyung99/STAT184                    |
 | Aidan Friedman          | Wed/Fri 2:30pm    | ajf6149              | https://github.com/ajf6149/GitHub-Practice-Fall2021/edit/master/README.md     |          
+| Xiangting Li            | Wed/Fri 2:30pm    | tinali0              | https://github.com/tinali0/stat18401                     |
 | Rashed Almogezwi        | Wed/Fri 2:30pm    | rxa5394              | https://github.com/rxa5394/GitHub-Practice-Fall2021      |
 | Sanghyuk Chae           | Wed/Fri 2:30pm    | sanghyukchae         | https://github.com/sanghyukchae/schae9813                |
 | Mohammed AlRasebi       | Wed/Fri 2:30pm    | MohammedAlrasebi     | https://github.com/MohammedAlrasebi/-mha5305-GitHub-Practice-Fall2021      |
@@ -106,9 +109,9 @@
 | Emre Keskin             | Wed/Fri 2:30pm    | EmreKeskin1          |https://github.com/EmreKeskin1/stunning-pancake           |
 | Jeffrey Carswell        | Wed/Fri 2:30 PM   | Jjcarswell           | https://github.com/Jjcarswell/jeff                       |
 | Nick Long               | Wed/Fri 2:30pm    | NickLong12           | https://github.com/NickLong12/GitHub-Practice-Fall2021/edit/master/README.md   |
-| Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |          
-
-
+| Brendan Rubey           | Wed/Fri 2:30pm    | bcrubey              | https://bcrubey.github.io/Stat-184-Brendan-Rubey/        |            
+| Dawson Mowery           | Wed/Fri 1:25pm    | Dmowery00            | https://github.com/Dmowery00/GitHub-Practice-Fall2021    |
+| Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |      
 
 
 <br>
